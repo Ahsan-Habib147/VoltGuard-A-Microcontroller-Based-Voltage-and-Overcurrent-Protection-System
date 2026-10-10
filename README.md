@@ -70,7 +70,7 @@ Restart Proteus after copying the files. Administrator permission may be require
 | Parameter | Default Value |
 |---|---:|
 | Overvoltage limit | 280 V |
-| Undervoltage limit | 180 V |
+| Undervoltage limit | 170 V |
 | Overcurrent limit | 10 A |
 | Trip delay | 120 ms |
 | Recovery delay |  10s |
@@ -89,7 +89,7 @@ Use the Proteus Virtual Terminal at 9600 baud.
 | `STREAM ON` | Enable continuous serial output |
 | `STREAM OFF` | Disable continuous serial output |
 | `SET OV 280` | Set overvoltage limit |
-| `SET UV 180` | Set undervoltage limit |
+| `SET UV 170` | Set undervoltage limit |
 | `SET OC 10` | Set overcurrent limit |
 | `SET DLY 120` | Set trip delay |
 | `SET REC 10` | Set recovery delay |

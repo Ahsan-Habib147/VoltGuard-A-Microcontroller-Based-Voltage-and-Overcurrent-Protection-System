@@ -25,17 +25,22 @@ VoltGuard is an Arduino Uno-based protection system designed to detect abnormal 
 ```text
 VoltGuard/
 ├── src/
-│   └── Firmware source code
+│   └── voltage_protector.ino
 ├── design_document.pdf
 ├── schematics/
 │   └── schematic.png
 ├── test_evidence/
-│   └── Simulation screenshots and test logs
+│   ├── lcd_display.png
+│   ├── normal_operation.png
+│   ├── overcurrent_test.png
+│   ├── overvoltage_test.png
+│   ├── serial_monitor.png
+│   └── undervoltage_test.png
 ├── project_files/
-│   ├── Proteus simulation files
-│   └── required_libraries/
-│       ├── ARDUINO2.LIB
-│       └── ARDUINO2.IDX
+│   ├── required_libraries/
+│   │   ├── ARDUINO2.IDX
+│   │   └── ARDUINO2.LIB
+│   ├── VoltGuard.pdsprj
 └── README.md
 ```
 

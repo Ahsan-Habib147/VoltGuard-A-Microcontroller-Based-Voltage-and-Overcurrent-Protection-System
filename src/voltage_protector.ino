@@ -135,11 +135,11 @@ void loadCfg() {
 
   if (cfg.magic != 0xA55A) {
     cfg.magic = 0xA55A;
-    cfg.ov = 250;
+    cfg.ov = 280;
     cfg.uv = 180;
     cfg.oc = 10.0;
-    cfg.dly = 100;
-    cfg.rec = 5;
+    cfg.dly = 120;
+    cfg.rec = 10;
     saveCfg();
   }
 

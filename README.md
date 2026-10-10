@@ -124,12 +124,10 @@ This project is intended for educational purposes and simulation. A practical im
 
 ## Author
 
-**Ahsan Habib**
+**Md. Ahsan Habib**
 
 ## Contact
 
-Email: [ahsan.2008032.ruet.mte@gmail.com](mailto:ahsan.2008032.ruet.mte@gmail.com)
+For any inquiries or issues, please contact us at ahsan.2008032.ruet.mte@gmail.com.
 
-## License
-
-No license has been specified for this project yet.
+Thank you for using VoltGuard: A Microcontroller-Based Voltage and Overcurrent Protection System simulation!

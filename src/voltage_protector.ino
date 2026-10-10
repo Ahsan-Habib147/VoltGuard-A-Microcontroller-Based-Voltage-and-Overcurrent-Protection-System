@@ -136,7 +136,7 @@ void loadCfg() {
   if (cfg.magic != 0xA55A) {
     cfg.magic = 0xA55A;
     cfg.ov = 280;
-    cfg.uv = 180;
+    cfg.uv = 170;
     cfg.oc = 10.0;
     cfg.dly = 120;
     cfg.rec = 10;
